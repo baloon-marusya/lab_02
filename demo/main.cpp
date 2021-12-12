@@ -1,5 +1,5 @@
 #include "MyExperiment.hpp"
-#include "for_investigation.hpp"
+#include "for_invastigation.hpp"
 
 int main() {
   std::vector<MyExperiment*> results;
