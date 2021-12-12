@@ -1,6 +1,6 @@
 // Copyright 2021 Maria Melnikova dandelion.m@mail.ru
 #ifndef INCLUDE_FOR_INVASTIGATION_HPP_
-#define INCLUDE_FOR_INVESTIGATION_HPP_
+#define INCLUDE_FOR_INVASTIGATION_HPP_
 
 #include "MyExperiment.hpp"
 
