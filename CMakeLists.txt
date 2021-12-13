@@ -33,7 +33,7 @@ find_package(GTest CONFIG REQUIRED)
 
 add_library(${PROJECT_NAME} STATIC
         # enum your files and delete this comment
-        sources/for_invastigation.cpp include/for_invastigation.hpp include/MyExperiment.hpp sources/MyExperiment.cpp)
+        sources/for_invastigation.cpp include/for_invastigation.hpp include/test_cache.hpp sources/test_cache.cpp)
 
 add_executable(demo
         ${CMAKE_CURRENT_SOURCE_DIR}/demo/main.cpp
