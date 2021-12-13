@@ -1,6 +1,6 @@
 // Copyright 2021 Maria Melnikova dandelion.m@mail.ru
-#ifndef INCLUDE_MYEXPERIMENT_HPP_
-#define INCLUDE_MYEXPERIMENT_HPP_
+#ifndef INCLUDE_TEST_CACHE_HPP_
+#define INCLUDE_TEST_CACHE_HPP_
 
 #include <iostream>
 #include <cstdlib>
@@ -37,4 +37,4 @@ class MyExperiment {
   ~MyExperiment();
 };
 
-#endif  // INCLUDE_MYEXPERIMENT_HPP_
+#endif  // INCLUDE_TEST_CACHE_HPP_
