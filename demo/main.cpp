@@ -1,5 +1,5 @@
 #include "test_cache.hpp"
-#include "for_invastigation.hpp"
+#include "invastigation.hpp"
 
 int main() {
   std::vector<MyExperiment*> results;
