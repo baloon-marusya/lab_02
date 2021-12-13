@@ -2,7 +2,7 @@
 #ifndef INCLUDE_FOR_INVASTIGATION_HPP_
 #define INCLUDE_FOR_INVASTIGATION_HPP_
 
-#include "MyExperiment.hpp"
+#include "test_cache.hpp"
 
 #include <cstdlib>
 #include <fstream>
