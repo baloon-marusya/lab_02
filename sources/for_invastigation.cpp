@@ -1,6 +1,6 @@
 // Copyright 2021 Maria Melnikova dandelion.m@mail.ru
 
-#include "for_invastigation.hpp"
+#include "invastigation.hpp"
 
 void make_report(std::vector <MyExperiment*> &results, std::ostream &os) {
   os << "investigation:\n";
