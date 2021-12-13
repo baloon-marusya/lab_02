@@ -9,9 +9,9 @@
 #include <vector>
 
 struct CacheSize {
-  const std::size_t level1 = 128 * 1024;
-  const std::size_t level2 = 512 * 1024;
-  const std::size_t level3 = 8192 * 1024;
+  const std::size_t level1 = 384 * 1024;
+  const std::size_t level2 = 1536 * 1024;
+  const std::size_t level3 = 9216 * 1024;
 };
 
 struct MasSize {
